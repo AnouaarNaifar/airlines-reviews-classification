@@ -106,8 +106,7 @@ Le notebook génère :
 - Les sections sont clairement séparées par phases
 
 ## 👥 Auteur
-[Anouaar Naifar] - ENETCOM 2IDSD2
-[Mariem Kchaou] - ENETCOM 2IDSD2
+[Anouaar Naifar] & [Mariem Kchaou] - ENETCOM 2IDSD2
 
 ## 📄 Licence
 Ce projet est à usage éducatif.
